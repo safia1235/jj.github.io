@@ -1,0 +1,4 @@
+ID: 1
+Type: granitic pegmatite
+Depth: 127.70 - 130.70 m
+Deposit : V1/V2 Pit, UIS, Namibia
